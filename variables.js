@@ -6,3 +6,9 @@ var shoeSize = 12
 
 var isFunny = false
 var likesSkiing = true
+
+myName = "John Snow"
+console.log(myName);
+
+state = "California"
+console.log(state)
